@@ -10,4 +10,4 @@ Your Bot is ready!
 
 Replit Users
 
-Click Here
+[Click Here](https://repl.it/github/diwasatreya/Music-Bot)
