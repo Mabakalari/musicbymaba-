@@ -155,9 +155,9 @@ require('http').createServer((req, res) => res.end(`
  |-----------------------------------------|
  |• Alive: 24/7                            |
  |-----------------------------------------|
- |• Author: !           MABA KALARY#0001                   |
+ |• Author: MABA KALARI᛫ ƉɆV̸ɨⱠ#8169                   |
  |-----------------------------------------|
- |• Server: https://discord.gg/YuSJs876BF  |
+ |• Server: https://discord.gg/YuSJs876BF /https://discord.gg/Ff7mA5zWKq  |
  |-----------------------------------------|
  |• Github: https://github.com/Mabakalari |
  |-----------------------------------------|
